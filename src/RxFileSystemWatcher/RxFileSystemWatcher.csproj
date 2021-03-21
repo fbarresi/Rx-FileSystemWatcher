@@ -5,10 +5,10 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Version>1.0.0</Version>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <Authors>g0t4</Authors>
-    <PackageProjectUrl>https://github.com/g0t4/Rx-FileSystemWatcher</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/g0t4/Rx-FileSystemWatcher/master/LICENSE</PackageLicenseUrl>
-    <Description>A set of reactive/observable wrappers around the FileSystemWatcher</Description>
+    <Authors>Federico Barresi</Authors>
+    <PackageProjectUrl>https://github.com/fbarresi/Rx-FileSystemWatcher</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/fbarresi/Rx-FileSystemWatcher/master/LICENSE</PackageLicenseUrl>
+    <Description>A set of reactive/observable wrappers around the FileSystemWatcher and maintained fork of ReactiveFileSystemWatcher</Description>
   </PropertyGroup>
 
   <ItemGroup>

@@ -1,3 +1,9 @@
+# Rx-FileSystemWatcher
+
+This is a maintained Fork of [Rx-FileSystemWatcher](https://github.com/g0t4/Rx-FileSystemWatcher)
+
+[![Nuget Version](https://img.shields.io/nuget/v/RxFileSystemWatcher.svg)](https://www.nuget.org/packages/RxFileSystemWatcher/)
+
 ## Contents
 
 - ObservableFileSystemWatcher - an observable wrapper around the FileSystemWatcher type
@@ -5,20 +11,4 @@
 
 ## Install via nuget
 
-	Install-Package ReactiveFileSystemWatcher
-
-## Building from the CLI
-
-- Install ruby - [with chocolatey](http://chocolatey.org/packages/ruby) `cinst ruby`
-- `gem install albacore`
-- `rake build`
-
-## Testing
-
-This project has a suite of integration tests to verify the behavior of monitoring the file system. The tests are a great way to understand the behavior.
-
-To run the tests use `rake test`
-
-## Packaging
-
-`rake nuget`
+`Install-Package RxFileSystemWatcher`
